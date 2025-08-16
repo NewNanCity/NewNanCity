@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <h3>🎉 五週年紀念 🎉</h3>
-      <p>
-        風雨同路，感謝有你！
-      </p>
-=======
 <p align="center">
   
 </p>
@@ -24,4 +15,3 @@
     </td>
   </tr>
 </table>
->>>>>>> b249eddb8143bc2ba1bd06bcabf88fef500a3fe5
