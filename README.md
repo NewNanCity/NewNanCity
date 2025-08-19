@@ -1,12 +1,15 @@
 <p align="center">
+  <img src="https://github.com/Sasuke1003/photoshub/blob/main/5years.png" alt="五年" width="100%"/>
+</p>
+
+<h1 align="center">牛腩小镇 | NewNanCity</h1>
+
+<p align="center">
   <img src="assets/days_since.png" alt="伺服器已開服天數"/>
   &nbsp;
   <img src="assets/countdown.png" alt="距離下一個週年"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Sasuke1003/photoshub/blob/main/5years.png" alt="五年" width="100%"/>
-</p>
 <table align="center">
   <tr>
     <td align="center" valign="top">
