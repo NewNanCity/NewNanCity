@@ -9,9 +9,6 @@
   &nbsp;
   <img src="assets/countdown.png" alt="距離下一個週年"/>
 </p>
-
->123456
-
 <table align="center">
   <tr>
     <td align="center" valign="top">

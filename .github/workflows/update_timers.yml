@@ -30,7 +30,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: 自動更新計時器圖片"
+          commit_message: "chore: generate timers at 12am per day"
           file_pattern: "assets/*.png"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "github-actions-bot@users.noreply.github.com"

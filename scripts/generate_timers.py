@@ -31,12 +31,14 @@ if not os.path.exists(FONT_PATH):
 start_date = datetime(2020, 2, 2)
 today = datetime.now()
 days_since = (today - start_date).days
-text1 = f"開服至今: {days_since} 天"
+text1 = f"We have been running for: {days_since} days"
+
 
 next_anniversary_year = today.year if (today.month < 2 or (today.month == 2 and today.day <= 2)) else today.year + 1
 next_anniversary_date = datetime(next_anniversary_year, 2, 2)
 days_until = (next_anniversary_date - today).days
-text2 = f"距離下個週年: {days_until} 天"
+text2 = f"Days until next anniversary: {days_until} days"
+
 
 # --- 圖片產生函式 ---
 def create_image(text, filename, width=240, height=40):  # 加寬圖片以容納中文
