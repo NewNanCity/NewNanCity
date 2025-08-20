@@ -22,19 +22,21 @@
 <p align="center">牛腩时报：最新情报！曼巴小镇已开启！！</p>
 <p align="center"><img width="605" height="68" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"/></p>
 
->牛腩小镇！牛腩小镇！坠机了！
->黑心攻击者，让几把猫欠下了三点五个亿！（牛币）
+> [!NOTE]
+> 牛腩小镇！牛腩小镇！坠机了！
+> 黑心攻击者，让几把猫欠下了三点五个亿！（牛币）
 >
->——现在，我们改名“曼巴小镇”，
->把服务器当TNT，把崩溃当烟花！
->来，一起把炸服开成狂欢，把废墟盖成景点。
->• TNT炸服赛：随便放置TNT，看哪里不爽就把它炸了（鼓励公报私仇）！放心，这个是备份世界，到时候主服开了不会受到任何影响。
->• 建筑battle：“炸服纪念碑”主题雕塑，占地20*20以内，优秀作品将会被永久放置于牛腩镇和其他城镇！
->• 不限制PVP大赛：随时随地，就地大战，没有任何限制！死了会有神秘战败CG哦
+> ——现在，我们改名“曼巴小镇”，
+> 把服务器当TNT，把崩溃当烟花！
+> 来，一起把炸服开成狂欢，把废墟盖成景点。
+> • TNT炸服赛：随便放置TNT，看哪里不爽就把它炸了（鼓励公报私仇）！放心，这个是备份世界，到时候主服开了不会受到任何影响。
+> • 建筑battle：“炸服纪念碑”主题雕塑，占地20*20以内，优秀作品将会被永久放置于牛腩镇和其他城镇！
+> • 不限制PVP大赛：随时随地，就地大战，没有任何限制！死了会有神秘战败CG哦
 
 ---
 
 <h2 align="center">/tpahere</h2>
+<p align="left">
 <p align="left">
   <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" alt="NewNanCity Website"/></a>
   <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" alt="Start play"/></a>
