@@ -13,6 +13,9 @@
 <h3 align="center">/spawn</h3>
 <p align="center">欢迎你牛子！牛腩小镇是一个开服超过五年，合计超过2000+玩家的中文圈生存插件服务器。</p>
 <p align="center">在这里你可以体验我们的无与伦比的城镇玩法、铁路系统、还有管理员们开发的各种活动和小游戏！</p>
+<p align="center">
+  <a href="https://www.wolai.com/newnan/26gvpMzTrsoyjtb6L6cQW6">点我进服！</a>
+</p>
 
 <table align="center">
   <tr>
@@ -24,7 +27,7 @@
     <td align="center" valign="top" alt="开服两千天">
       <h3>✨ 开服 2000 天 ✨</h3>
       <p>莫斯科大会堂</p>
-      <img src="https://github.com/Sasuke1003/photoshub/blob/main/2000.png" alt="开服 2000 天" width="400"/>
+      <img src="https://github.com/Sasuke1003/photoshub/blob/main/2000.png" width="400"/>
     </td>
   </tr>
 </table>
@@ -34,4 +37,4 @@
 <h2 align="center">
 最新情报！曼巴小镇已开启！！
 </h2>
-<p align="center"><img width="605" height="68" alt="image" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" /></p>
+<p align="center"><img width="605" height="68" alt="image" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"></p>
