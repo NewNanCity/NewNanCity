@@ -51,5 +51,18 @@
 
 ---
 
-<h2 align="center">新人快看！</h2>
-<p align="center"></p>
+<h2 align="center">/tpahere</h2>
+<p align="center">
+  <a href="https://newnan.city" target="_blank">
+    <img src="https://img.shields.io/badge/Web-牛腩小镇-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+  </a>
+  <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank">
+    <img src="https://img.shields.io/badge/Play-QQ频道-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+  </a>
+  <a href="https://skin.newnan.city">
+    <img src="https://img.shields.io/badge/Skin-皮肤站-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Authlib"/>
+  </a>
+  <a href="https://map.newnan.city">
+    <img src="https://img.shields.io/badge/Map-卫星地图-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Gamemap"/>
+  </a>
+</p>
