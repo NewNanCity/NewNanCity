@@ -14,7 +14,7 @@
 <p align="center">欢迎你牛子！牛腩小镇是一个开服超过五年，合计超过2000+玩家的中文圈插件生存服务器。</p>
 <p align="center">在这里你可以体验我们的无与伦比的城镇玩法、铁路系统、还有管理员们开发的各种活动和小游戏！</p>
 <p align="center">
-  <a href="https://www.wolai.com/newnan/26gvpMzTrsoyjtb6L6cQW6">点我进服！</a>
+  <a href="https://www.wolai.com/newnan/26gvpMzTrsoyjtb6L6cQW6">点我了解牛腩！</a>
 </p>
 
 <table align="center">
