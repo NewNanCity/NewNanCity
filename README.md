@@ -35,7 +35,7 @@
 ---
 
 <h2 align="center">
-最新情报！曼巴小镇已开启！！
+牛腩时报：最新情报！曼巴小镇已开启！！
 </h2>
 <p align="center"><img width="605" height="68" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"/></p>
 
