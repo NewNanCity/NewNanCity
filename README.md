@@ -4,7 +4,7 @@
 <!-- 横幅 -->
 <p align="center"><img src="https://github.com/Sasuke1003/photoshub/blob/main/newnancity.png" alt="五周年banner" width="100%"/></p>
 <p align="center"><img src="assets/days_since.png" alt="服务器开启天数"/>&nbsp;
-<img src="https://github.com/Sasuke1003/photoshub/blob/main/hahadiaotu.jpg" alt="分隔符"/>&nbsp;
+<img src="https://github.com/Sasuke1003/photoshub/blob/main/hahadiaotu.jpg" height="80" alt="分隔符"/>&nbsp;
 <img src="assets/countdown.png" alt="距离下个周年天数"/></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
