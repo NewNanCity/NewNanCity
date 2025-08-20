@@ -44,14 +44,24 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 
 <!--选单-->
-
+<h2 align="center">/nn</h2>
+<p align="left">你可以使用此选单前往以下其中一个区域。</p>
+- [/tpahere](#tpahere)
+- [皮肤站](#skin)
+- [客户端](#client)
+- [官方B站](#bilibili)
+- [规则](#rules)
+- [捐赠](#donate)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!--牛腩链接-->
-<h2 align="center" id="1">/tpahere</h2>
+<h2 align="center" id="tpahere">/tpahere</h2>
 <p align="center">
-  <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" alt="NewNanCity Website"/></a>
-  <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=qq&logoColor=white" width="150" alt="Start play"/></a>
-  <a href="https://skin.newnan.city"><img src="https://img.shields.io/badge/Skin-皮肤站-gold?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" alt="NewNanCity Authlib"/></a>
-  <a href="https://map.newnan.city"><img src="https://img.shields.io/badge/Map-卫星地图-blue?style=for-the-badge&logo=mapbox&logoColor=white" width="150" alt="NewNanCity Gamemap"/></a>
+  <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Website"/></a>
+  <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=qq&logoColor=white" width="150" height="30" alt="Start play"/></a>
+  <a href="https://skin.newnan.city"><img src="https://img.shields.io/badge/Skin-皮肤站-gold?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Authlib"/></a>
+  <a href="https://map.newnan.city"><img src="https://img.shields.io/badge/Map-卫星地图-blue?style=for-the-badge&logo=mapbox&logoColor=white" width="150" height="30" alt="NewNanCity Gamemap"/></a>
+  <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
+  <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
+
 </p>
