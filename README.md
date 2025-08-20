@@ -46,16 +46,17 @@
 <!--选单-->
 <h2 align="center">/nn</h2>
 <p align="left">你可以使用此选单前往以下其中一个区域。</p>
-- [/tpahere](#tpahere)
-- [皮肤站](#skin)
-- [客户端](#client)
+
+- [/tpa](#tpa)
+- [皮肤站注册教学](#skin)
+- [客户端安装教学](#client)
 - [官方B站](#bilibili)
 - [规则](#rules)
 - [捐赠](#donate)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!--牛腩链接-->
-<h2 align="center" id="tpahere">/tpahere</h2>
+<h2 align="center" id="tpa">/tpa</h2>
 <p align="center">
   <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Website"/></a>
   <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=qq&logoColor=white" width="150" height="30" alt="Start play"/></a>
@@ -63,5 +64,58 @@
   <a href="https://map.newnan.city"><img src="https://img.shields.io/badge/Map-卫星地图-blue?style=for-the-badge&logo=mapbox&logoColor=white" width="150" height="30" alt="NewNanCity Gamemap"/></a>
   <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
   <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
-
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<!-- 皮肤站注册教学 -->
+<details id="skin">
+  <summary>皮肤站注册教学</summary>
+  <p>
+    1. 打开皮肤站注册页面，点击画面中间的"现在注册"：<a href="https://skin.newnan.city">https://skin.newnan.city</a>。
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin1.png" width="160" height="90" alt="皮肤站主页"><br>
+  </p>
+  <p>
+    2. 依次输入表单中的资料，然后点击注册，注册成功后登录。<img src="https://github.com/Sasuke1003/photoshub/blob/main/skin2.png" width="160" height="90" alt="注册"><br>
+  </p>
+  <p>
+    3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址，**请记得复制下来，下载客户端时会用上**。<img src="https://github.com/Sasuke1003/photoshub/blob/main/skin3.png" width="160" height="90" alt="第三方认证服务器地址"><br>
+  </p>
+  <p>
+    4. 皮肤站可以上传自己的皮肤和披风，或者使用其他人在皮肤站上传的皮肤和披风。<img src="https://github.com/Sasuke1003/photoshub/blob/main/skin4.png" width="160" height="90" alt="上传皮肤"><br>
+  </p>
+  <p>
+    5. 皮肤库可以查看所有上传的皮肤和披风（设定为私人的皮肤除外），点击“皮肤库”。<img src="https://github.com/Sasuke1003/photoshub/blob/main/skin5.png" width="160" height="90" alt="皮肤库"><br>
+  </p>
+</details>
+
+---
+
+<!-- 客户端安装教学 -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<!-- 官方B站 -->
+<h2 align="center" id="bilibili">官方B站</h2>
+<p align="center">
+  <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
+  <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
+</p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115048081067230&bvid=BV1ZBYpzhEYB&cid=31772116116&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<!-- 规则 -->
+<h2 align="center" id="rules">规则</h2>
+<p align="center">
+  <a href="https://newnan.city/rules"><img src="https://img.shields.io/badge/规则-查看规则-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<!-- 捐赠 -->
+<h2 align="center" id="donate">捐赠</h2>
+<p align="center">
+  <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
+```牛腩服务器是公益服务器，平时用爱发电，欢迎各位赞助！钱无论多少，你的支持就是我们最大的荣幸！如果愿意，请量力而行，1块也可以，很多玩家都是学生，没有挣钱能力，请节俭一些（富哥随意）！本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在此页面鸣谢所有赞助者，并保证资金流向的透明（更新会有延迟）。```
+
+
+
