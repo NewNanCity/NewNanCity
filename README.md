@@ -74,31 +74,31 @@
     1. 打开皮肤站注册页面，点击画面中间的"现在注册"：<a href="https://skin.newnan.city">https://skin.newnan.city</a>。
   </p>
   <p>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin1.png" width="160" height="90" alt="皮肤站主页"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin1.png" width="480" height="270" alt="皮肤站主页"><br>
   </p>
   <p>
     2. 依次输入表单中的资料，然后点击注册，注册成功后登录。
   </p>
   <p>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin2.png" width="160" height="90" alt="注册"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin2.png" width="480" height="270" alt="注册"><br>
   </p>
   <p>
     3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址，**请记得复制下来，下载客户端时会用上**。
   </p>
   <p>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin3.png" width="160" height="90" alt="第三方认证服务器地址"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin3.png" width="480" height="270" alt="第三方认证服务器地址"><br>
   </p>
   <p>
     4. 皮肤站可以上传自己的皮肤和披风，或者使用其他人在皮肤站上传的皮肤和披风。
   </p>
   <p>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin4.png" width="160" height="90" alt="上传皮肤"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin4.png" width="480" height="270" alt="上传皮肤"><br>
   </p>
   <p>
     5. 皮肤库可以查看所有上传的皮肤和披风（设定为私人的皮肤除外），点击“皮肤库”。
   </p>
   <p>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin5.png" width="160" height="90" alt="皮肤库"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin5.png" width="480" height="270" alt="皮肤库"><br>
   </p>
 </details>
 
