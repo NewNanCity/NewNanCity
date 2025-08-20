@@ -1,8 +1,7 @@
+<h1 align="center">牛腩小镇 | NewNanCity | JE 1.20.1</h1>
 <p align="center">
   <img src="https://github.com/Sasuke1003/photoshub/blob/main/newnancity.png" alt="五周年banner" width="100%"/>
 </p>
-
-<h1 align="center">牛腩小镇 | NewNanCity | JE 1.20.1</h1>
 
 <p align="center">
   <img src="assets/days_since.png" alt="服务器开启天数"/>
