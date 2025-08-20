@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Web-牛腩小镇-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
   </a>
   <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank">
-    <img src="https://img.shields.io/badge/Play-QQ频道-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+    <img src="https://img.shields.io/badge/Play-QQ频道-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Start play"/>
   </a>
   <a href="https://skin.newnan.city">
     <img src="https://img.shields.io/badge/Skin-皮肤站-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Authlib"/>
