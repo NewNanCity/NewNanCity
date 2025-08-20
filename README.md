@@ -21,22 +21,21 @@
   <tr>
     <td align="center" valign="top" alt="五周年纪念">
       <h3>🎉 五周年纪念 🎉</h3>
-      <p>牛腩镇五周年纪念场地</p>
       <img src="https://github.com/Sasuke1003/photoshub/blob/main/background.png" alt="五週年紀念" width="400"/>
+      <p>牛腩镇五周年纪念场地</p>
     </td>
     <td align="center" valign="top" alt="开服两千天">
       <h3>✨ 开服 2000 天 ✨</h3>
-      <p>莫斯科大会堂</p>
       <img src="https://github.com/Sasuke1003/photoshub/blob/main/2000.png" alt="开服2000天" width="400"/>
+      <p>莫斯科大会堂</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">
-牛腩时报：最新情报！曼巴小镇已开启！！
-</h2>
+<h2 align="center">/mail read</h2>
+<p align="center">牛腩时报：最新情报！曼巴小镇已开启！！</p>
 <p align="center"><img width="605" height="68" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"/></p>
 
 >牛腩小镇！牛腩小镇！坠机了！
@@ -52,7 +51,7 @@
 ---
 
 <h2 align="center">/tpahere</h2>
-<p align="center">
+<p align="left">
   <a href="https://newnan.city" target="_blank">
     <img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
   </a>
