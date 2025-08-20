@@ -27,7 +27,7 @@
     <td align="center" valign="top" alt="开服两千天">
       <h3>✨ 开服 2000 天 ✨</h3>
       <p>莫斯科大会堂</p>
-      <img src="https://github.com/Sasuke1003/photoshub/blob/main/2000.png" width="400"/>
+      <img src="https://github.com/Sasuke1003/photoshub/blob/main/2000.png" alt="开服2000天" width="400"/>
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 <h2 align="center">
 最新情报！曼巴小镇已开启！！
 </h2>
-<p align="center"><img width="605" height="68" alt="image" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"></p>
+<p align="center"><img width="605" height="68" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" alt="曼巴服截图"/></p>
 
 >牛腩小镇！牛腩小镇！坠机了！
 >黑心攻击者，让几把猫欠下了三点五个亿！（牛币）
