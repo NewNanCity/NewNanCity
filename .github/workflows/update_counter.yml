@@ -1,13 +1,12 @@
-name: Update Counter
+name: Daily Counter Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天UTC時間00:00運行
-  workflow_dispatch:
+    - cron: '0 0 * * *'
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     
     steps:
     - name: Checkout code
@@ -16,20 +15,20 @@ jobs:
         persist-credentials: false
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install Pillow
+      run: pip install pillow
 
     - name: Generate images
       run: python generate_images.py
 
-    - name: Commit and push
+    - name: Commit changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add assets/
-        git commit -m "Auto-update counter images" || echo "No changes to commit"
+        git add assets/*.png
+        git commit -m "Auto-update counter images" || exit 0
         git push
