@@ -11,7 +11,8 @@ IMAGE_HEIGHT = 80  # 統一圖片高度
 
 
 def create_count_image(title, days, filename):
-    img = Image.new('RGB', (IMAGE_WIDTH, 100), color=(50, 50, 50))
+    # 使用类似GitHub深色模式的背景色
+    img = Image.new('RGB', (IMAGE_WIDTH, 100), color='#0d1117')
     d = ImageDraw.Draw(img)
     
     # 標題繪製
