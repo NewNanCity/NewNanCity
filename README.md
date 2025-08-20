@@ -10,6 +10,10 @@
   <img src="assets/countdown.png" alt="距离下个周年天数"/>
 </p>
 
+<h3 align="center">/spawn</h3>
+<p align="center">欢迎你牛子！牛腩小镇是一个开服超过五年，合计超过2000+玩家的中文圈生存插件服务器。</p>
+<p align="center">在这里你可以体验我们的无与伦比的城镇玩法、铁路系统、还有管理员们开发的各种活动和小游戏！</p>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" alt="五周年纪念">
@@ -27,6 +31,7 @@
 
 ---
 
-<h3 align="center">/spawn</h3>
-<p align="center">欢迎你牛子！牛腩小镇是一个开服超过五年，合计超过2000+玩家的中文圈生存插件服务器。</p>
-<p align="center">在这里你可以体验我们的无与伦比的城镇玩法、铁路系统、还有管理员们开发的各种活动和小游戏！</p>
+<h2 align="center">
+最新情报！曼巴小镇已开启！！
+</h2>
+<p align="center"><img width="605" height="68" alt="image" src="https://github.com/user-attachments/assets/d22ac043-b530-48cd-8b02-c1d7b7a32f86" /></p>
