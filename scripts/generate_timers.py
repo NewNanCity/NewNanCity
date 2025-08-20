@@ -17,13 +17,13 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 start_date = datetime(2020, 2, 2)
 today = datetime.now()
 days_since = (today - start_date).days
-text1 = f"We have been running for: {days_since} days"
+text1 = f"Launched:{days_since}days"
 
 # 計時器 2: 距離下一個週年 (2月2日) 的倒數
 next_anniversary_year = today.year if (today.month < 2 or (today.month == 2 and today.day <= 2)) else today.year + 1
 next_anniversary_date = datetime(next_anniversary_year, 2, 2)
 days_until = (next_anniversary_date - today).days
-text2 = f"Days until next anniversary: {days_until} days"
+text2 = f"Next anniversary:{days_until}days"
 
 # --- 圖片產生函式 ---
 def create_image(text, filename, width=220, height=40):
