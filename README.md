@@ -100,6 +100,13 @@
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin5.png" width="100%" height="auto" alt="皮肤库"><br>
   </p>
+  <p>
+    6. 如果你登入过并且让浏览器记住帐号密码了，当你再次回到皮肤站时，可以直接按“登录”按钮，无需重复输入用户名和密码，或者直接按进入用户中心，进入皮肤站。
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin6.png" width="100%" height="auto" alt="二次登录"><br>
+
+  </p>
 </details>
 
 ---
