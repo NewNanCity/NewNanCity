@@ -1,4 +1,4 @@
-<h1 align="center">客户端下载</h1>
+<h1 align="center">下载页面</h1>
 
 > [!Warning]
 >
@@ -62,7 +62,7 @@
 
 #### Iris 光影
 
-> <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。  
+> <a href="https://www.irisshaders.dev/">Iris</a> 是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。  
 > 补充：Iris是可以在官网下载客户端版本安装包直接安装的，如果不玩考虑模组的话可以尝试使用官网提供的安装包。
 
 [![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](https://modrinth.com/mod/iris/version/1.6.4+1.20)

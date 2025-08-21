@@ -125,7 +125,7 @@
 <h2 align="left" id="client">/client 客户端安装</h2>
 <details open>
   <summary>客户端安装教学</summary>
-    1. 请先安装牛腩主群或者 <a href="doc/CLIENT.md">客户端</a> 给的客户端。<br>
+    1. 请先安装牛腩主群或者 <a href="doc/CLIENT.md">下载页面</a> 给的客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载"><br>
     2.<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端登录资料填写"><br>
