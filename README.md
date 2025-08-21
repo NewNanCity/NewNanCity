@@ -125,7 +125,7 @@
 <details id="client">
   <summary>客户端安装教学</summary>
   <p>
-    1. 请先安装Q群或者<a href="">给的客户端。
+    1. 请先安装Q群或者<a href="">这里</a>给的客户端。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载"><br>
