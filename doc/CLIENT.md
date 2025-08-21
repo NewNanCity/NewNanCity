@@ -72,11 +72,11 @@
 
 > Bobby 可以允许渲染比服务器视距更多的区块。
 
-[![下载 Bobby](https://img.shields.io/badge/下载-Bobby-red?style=for-the-badge)](../mod/[摄影视距用]bobby-5.0.1.jar)
+<a href="../mod/[摄影视距用]bobby-5.0.1.jar"><img src="https://img.shields.io/badge/下载-Bobby-red?style=for-the-badge"></a>
 
 #### Replay 记录回放
 
 > Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录，退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
 
-[![下载 Replay](https://img.shields.io/badge/下载-Replay-red?style=for-the-badge)](../mod/[fabric]replaymod-1.20.1-2.6.13.jar)
+<a href="../mod/[fabric]replaymod-1.20.1-2.6.13.jar"><img src="https://img.shields.io/badge/下载-Replay-red?style=for-the-badge"></a>
 
