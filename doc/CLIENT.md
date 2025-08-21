@@ -31,7 +31,7 @@
 
 <p>如果你有自己的.minecraft文件，你可以把PCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载.minecraft文件</p>
 
-[![下载 PCL启动器](https://img.shields.io/badge/下载-PCL%20启动器-blue?style=for-the-badge)](https://drive.google.com/file/d/1o3Z9s5fg2mY-HGRRY9ciBU86QM0DZzUH/view?usp=drive_link)
+[![下载 PCL启动器](https://img.shields.io/badge/下载-PCL%20启动器-blue?style=for-the-badge)](../client/PlainCraftLauncher.exe)
 
 ---
 
