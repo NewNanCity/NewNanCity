@@ -82,7 +82,7 @@
 <details>
   <summary>皮肤站注册教学</summary>
   <p>
-    1. 打开皮肤站注册页面，点击画面中间的"现在注册"：<a href="https://skin.newnan.city">https://skin.newnan.city</a>。
+    1. 打开<a href="https://skin.newnan.city">皮肤站注册页面</a>，点击画面中间的"现在注册"。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin1.png" width="100%" height="auto" alt="皮肤站主页"><br>
