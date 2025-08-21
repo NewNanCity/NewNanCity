@@ -28,7 +28,7 @@
 
 [![下载 PCL (Forge)](https://img.shields.io/badge/下载-PCL%20(Forge)-blue?style=for-the-badge)](https://drive.google.com/file/d/1uqnGvCsbI65oizcxvKoTeW6TRXn0pGMr/view?usp=drive_link)
 
-<p>如果你有自己的.minecraft文件，你可以把PCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载.minecraft文件</p>
+> 如果你有自己的.minecraft文件，你可以把PCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载.minecraft文件。
 
 [![下载 PCL启动器](https://img.shields.io/badge/下载-PCL%20启动器-blue?style=for-the-badge)](../client/PlainCraftLauncher.exe)
 
@@ -43,7 +43,7 @@
 
 [![下载 HMCL (Forge)](https://img.shields.io/badge/下载-HMCL%20(Forge)-green?style=for-the-badge)](https://drive.google.com/file/d/1tZPnmfQiivMKP4xdpqPLNcfq4AgL3I8l/view?usp=drive_link)
 
-> 同理，如果你有自己的.minecraft文件，你可以把HMCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载`.minecraft`文件。
+> 如果你有自己的.minecraft文件，你可以把HMCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载`.minecraft`文件。
 
 [![下载 HMCL.exe](https://img.shields.io/badge/下载-HMCL.exe-green?style=for-the-badge)](../client/HMCL.exe)
 
