@@ -123,16 +123,14 @@
 ---
 
 <!-- 客户端安装教学 -->
-<h2 align="left" id="client">/client 客户端安装</h2>
+<h2 align="left" id="client">/client 客户端安装和登入游戏教学</h2>
 <details>
   <summary>客户端安装教学</summary>
     1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的客户端。<br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载"><br>
-    2.<br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端登录资料填写"><br>
-    3. <br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="第三方帐号登录"><br>
-    4. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
+    2. 下载好之后解压缩<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client4.png" width="100%" height="auto" alt="进入游戏前置"><br>
     5. <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client5.png" width="100%" height="auto" alt="进入游戏"><br>
