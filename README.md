@@ -94,21 +94,19 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin2.png" width="100%" height="auto" alt="注册"><br>
   </p>
   <p>
-    3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址。不过牛腩并没有提供，所以直接贴在这里了<br>
-    https://skin.newnan.city/api/yggdrasil<br>
-    请把此地址复制下来，登入客户端时会用上。
+    3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址。<br>不过牛腩并没有提供，所以直接贴在这里了<br>https://skin.newnan.city/api/yggdrasil<br>请把此地址复制下来，登入客户端时会用上。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin3.png" width="100%" height="auto" alt="第三方认证服务器地址"><br>
   </p>
   <p>
-    4. 皮肤站可以上传自己的皮肤和披风，或者使用其他人在皮肤站上传的皮肤和披风。
+    4. 皮肤站可以上传自己的皮肤和披风。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin4.png" width="100%" height="auto" alt="上传皮肤"><br>
   </p>
   <p>
-    5. 皮肤库可以查看所有上传的皮肤和披风（设定为私人的皮肤除外），点击“皮肤库”。
+    5. 点击皮肤库，可以查看所有上传的皮肤和披风（设定为私人皮肤除外）。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin5.png" width="100%" height="auto" alt="皮肤库"><br>
