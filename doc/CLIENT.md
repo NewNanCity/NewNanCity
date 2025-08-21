@@ -51,11 +51,11 @@
 
 ### 你可能所需要的模组？
 
-> 我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可。
+> 我们也提供了一些视频创作者会用到的模组，下载后放到`.minecraft/mods`文件夹中即可。
 
 #### Optifine 光影
 
-> <a href="https://optifine.net/home">Optifine</a> 是一个优化模组，主要的特点是光影和平滑玻璃，可以搭配光影包使用，你可以把光影包直接丢进`.minecraft/shaderpacks`文件夹中。
+> <a href="https://optifine.net/home">Optifine</a> 是一个优化模组，主要的特点是光影和平滑玻璃，可以搭配光影包使用，你可以把光影包直接丢进`.minecraft/shaderpacks`文件夹中。  
 > 补充：Optifine是可以在官网下载客户端版本安装包直接安装的，如果不玩考虑模组的话可以尝试使用官网提供的安装包。
 
 [![下载 Optifine](https://img.shields.io/badge/下载-Optifine-pink?style=for-the-badge)](https://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=6923)
