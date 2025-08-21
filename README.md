@@ -170,6 +170,6 @@
 <p align="center">
   <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
 
-```md
+```html
 牛腩服务器是公益服务器，平时用爱发电，欢迎各位赞助！钱无论多少，你的支持就是我们最大的荣幸！如果愿意，请量力而行，1块也可以，很多玩家都是学生，没有挣钱能力，请节俭一些（富哥随意）！本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在此页面鸣谢所有赞助者，并保证资金流向的透明（更新会有延迟）。
 ```
