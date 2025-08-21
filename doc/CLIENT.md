@@ -21,7 +21,8 @@
 
 ### PCL 启动器
 
-> 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
+> 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组  
+> 下载整合包后直接解压即可使用。
 
 [![下载 PCL (Fabric)](https://img.shields.io/badge/下载-PCL%20(Fabric)-blue?style=for-the-badge)](https://drive.google.com/file/d/1Gvushs4YB5mpvLLKz700vDTnBSDH5qb-/view?usp=drive_link)
 
@@ -35,7 +36,8 @@
 
 ### HMCL 启动器
 
-> 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
+> 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组  
+> 下载整合包后直接解压即可使用。
 
 [![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](https://drive.google.com/file/d/1GNtjbaomFUK0vi0mWTznGRjBvF4o3Fxk/view?usp=drive_link)
 
