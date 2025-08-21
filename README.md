@@ -49,7 +49,7 @@
 - [/tpa 传送链接](#tpa)
 - [/skin 皮肤站注册](#skin)
 - [/client 客户端安装](#client)
-- [/rules 规则](#rules)
+- [/rules 牛腩法规](#rules)
 - [/donate 捐赠](#donate)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
@@ -159,16 +159,18 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 规则 -->
-<h2 align="center" id="rules">规则</h2>
+<h2 align="center" id="rules">牛腩法规</h2>
 <p align="center">
   <a href="https://www.wolai.com/newnan/777czodMK18Zv6hdy2b8jm"><img src="https://img.shields.io/badge/规则-查看规则-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
+  <a href="https://www.wolai.com/newnan/a1XDDRgFFovKxWzScNXA5m"><img src="https://img.shields.io/badge/审判-牛腩法院-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Court"/></a>
+
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 捐赠 -->
 <h2 align="center" id="donate">捐赠</h2>
 <p align="center">
-  <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
+  <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-green?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
 
 ```html
 牛腩服务器是公益服务器，平时用爱发电，欢迎各位赞助！
