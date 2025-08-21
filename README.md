@@ -161,4 +161,4 @@
 本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在本页面（不定时更新，上面的链接应在24小时内更新）鸣谢所有赞助者，并保证资金流向的透明
 （更新会有延迟）。
 ```
-<img src="https://github.com/Sasuke1003/photoshub/blob/main/donate.png" width="100%" height="auto" alt="斗内">
+<img src="https://github.com/Sasuke1003/photoshub/blob/main/donation.png" width="100%" height="auto" alt="斗内">
