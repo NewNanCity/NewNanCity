@@ -76,7 +76,7 @@
 
 #### Replay 记录回放
 
-> [!NOTE]
+> [!简介]
 > Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录，退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
 
 [![下载 Replay](https://img.shields.io/badge/下载-Replay-red?style=for-the-badge)](../mod/[fabric]replaymod-1.20.1-2.6.13.jar)
