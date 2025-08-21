@@ -78,7 +78,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 皮肤站注册教学 -->
 <h2 align="left" id="skin">/skin 皮肤站注册</h2>
-<details>
+<details open>
   <summary>皮肤站注册教学</summary>
   <p>
     1. 打开皮肤站注册页面，点击画面中间的"现在注册"：<a href="https://skin.newnan.city">https://skin.newnan.city</a>。
@@ -123,7 +123,7 @@
 
 <!-- 客户端安装教学 -->
 <h2 align="left" id="client">/client 客户端安装</h2>
-<details>
+<details open>
   <summary>客户端安装教学</summary>
   <p>
     1. 请先安装Q群或者<a href="">这里</a>给的客户端。
