@@ -1,11 +1,11 @@
 <h1 align="center">客户端下载</h1>
 
-> !Warning
+> [!Warning]
 >
 > 请确保您的电脑至少已安装 Java 8 或以上版本，否则无法运行游戏。
 > 你可以在下面的下载按钮下载 Java 17 或者在 [Java 官网](https://www.java.com/zh-CN/) 下载并安装最新版本的 Java。
 
-> !Note
+> [!Note]
 > 有些电脑可能已经安装了 Java 8 或以上版本，你可以在命令行中输入 `java -version` 来检查 Java 版本。
 > 如果显示的版本低于 8，则需要安装 Java 8 或以上版本。
 > 安装完成后可以直接打开启动器开启游戏。
@@ -22,7 +22,8 @@
 
 ### PCL 启动器
 
-<p>这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用</p>
+> [!NOTE]
+> 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 PCL (Fabric)](https://img.shields.io/badge/下载-PCL%20(Fabric)-blue?style=for-the-badge)](../client/PCL_Fabric.rar)
 [![下载 PCL (Forge)](https://img.shields.io/badge/下载-PCL%20(Forge)-blue?style=for-the-badge)](../client/PCL_Forge.rar)
@@ -35,7 +36,8 @@
 
 ### HMCL 启动器
 
-<p>这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用</p>
+> [!NOTE]
+> 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](../client/HMCL_Fabric整合包.zip)
 [![下载 HMCL (Forge)](https://img.shields.io/badge/下载-HMCL%20(Forge)-green?style=for-the-badge)](../client/HMCL_Forge.rar)
@@ -48,7 +50,8 @@
 
 ### 你可能所需要的模组？
 
-<p>我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可</p>
+> [!NOTE]
+> 我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可。
 
 #### Optifine 光影
 
@@ -58,6 +61,7 @@
 
 #### Iris 光影
 
+> [!NOTE]
 > <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。
 
 [![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](../mod/Iris.jar)
@@ -65,12 +69,14 @@
 
 #### Bobby 渲染更远区块
 
+> [!NOTE]
 > Bobby 可以允许渲染比服务器视距更多的区块。
 
 [![下载 Bobby](https://img.shields.io/badge/下载-Bobby-red?style=for-the-badge)](../mod/[摄影视距用]bobby-5.0.1.jar)
 
 #### Replay 记录回放
 
+> [!NOTE]
 > Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录，退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
 
 [![下载 Replay](https://img.shields.io/badge/下载-Replay-red?style=for-the-badge)](../mod/[fabric]replaymod-1.20.1-2.6.13.jar)
