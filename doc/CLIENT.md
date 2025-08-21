@@ -16,6 +16,7 @@
 > 你可以在下面的下载按钮下载 Java 17。
 
 [![下载 Macos](https://img.shields.io/badge/下载-JDK17%20Macos-gray?style=for-the-badge)](../jdk/jdk-17_macos-x64.dmg)
+
 [![下载 Windows](https://img.shields.io/badge/下载-JDK17%20Windows-blue?style=for-the-badge)](../jdk/jdk-17_windows-x64_bin.exe)
 
 ---
@@ -25,6 +26,7 @@
 > 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 PCL (Fabric)](https://img.shields.io/badge/下载-PCL%20(Fabric)-blue?style=for-the-badge)](../client/PCL_Fabric.rar)
+
 [![下载 PCL (Forge)](https://img.shields.io/badge/下载-PCL%20(Forge)-blue?style=for-the-badge)](../client/PCL_Forge.rar)
 
 <p>如果你有自己的.minecraft文件，你可以把PCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载.minecraft文件</p>
