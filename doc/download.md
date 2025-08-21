@@ -1,4 +1,5 @@
 <h1 align="center">下载页面</h1>
+<p align="right"><a href="../README.md"><img src="https://img.shields.io/badge/返回首页-red?style=for-the-badge" alt="返回首页"></a></p>
 
 > [!Warning]
 >
@@ -13,9 +14,9 @@
 
 ### Java 17 下载
 
-[![下载 Macos](https://img.shields.io/badge/下载-JDK17%20Macos-gray?style=for-the-badge)](https://drive.google.com/file/d/19Y_bIP1MItBX0KVGbXIWwduAVhHr9GXI/view?usp=drive_link)
+[![下载 Macos](https://img.shields.io/badge/下载-JDK17%20Mac-gray?style=for-the-badge)](https://drive.google.com/file/d/19Y_bIP1MItBX0KVGbXIWwduAVhHr9GXI/view?usp=drive_link)
 
-[![下载 Windows](https://img.shields.io/badge/下载-JDK17%20Windows-blue?style=for-the-badge)](https://drive.google.com/file/d/11pvGXsjC3VXXZTJs1ImEvWo95EgyDioN/view?usp=drive_link)
+[![下载 Windows](https://img.shields.io/badge/下载-JDK17%20Win-blue?style=for-the-badge)](https://drive.google.com/file/d/11pvGXsjC3VXXZTJs1ImEvWo95EgyDioN/view?usp=drive_link)
 
 ---
 
