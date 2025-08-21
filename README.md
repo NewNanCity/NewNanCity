@@ -47,12 +47,11 @@
 <h2 align="center">/nn</h2>
 <p align="left">你可以使用此选单前往以下其中一个区域。</p>
 
-- [/tpa](#tpa)
-- [皮肤站注册教学](#skin)
-- [客户端安装教学](#client)
-- [官方B站](#bilibili)
-- [规则](#rules)
-- [捐赠](#donate)
+- [/tpa 传送链接](#tpa)
+- [/skin 皮肤站注册](#skin)
+- [/client 客户端安装](#client)
+- [/rules 规则](#rules)
+- [/donate 捐赠](#donate)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!--牛腩链接-->
@@ -145,17 +144,6 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client5.png" width="100%" height="auto" alt="进入游戏"><br>
   </p>
 </details>
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
-<!-- 官方B站 -->
-<h2 align="center" id="bilibili">官方B站</h2>
-<p align="center">
-  <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
-  <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
-</p>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115048081067230&bvid=BV1ZBYpzhEYB&cid=31772116116&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 规则 -->
