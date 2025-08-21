@@ -2,13 +2,13 @@
 
 > [!Warning]
 >
-> 请确保您的电脑至少已安装 Java 8 或以上版本，否则无法运行游戏。
-> 你可以在下面的下载按钮下载 Java 17 或者在 [Java 官网](https://www.java.com/zh-CN/) 下载并安装最新版本的 Java。
+> 请确保您的电脑至少已安装 Java 8 或以上版本，否则无法运行游戏。  
+> 你可以在下面的下载按钮下载 Java 17 或者在 [Java 官网](https://www.java.com/zh-CN/) 下载并安装最新版本的 Java。  
 
 > [!Note]
-> 有些电脑可能已经安装了 Java 8 或以上版本，你可以在命令行中输入 `java -version` 来检查 Java 版本。
-> 如果显示的版本低于 8，则需要安装 Java 8 或以上版本。
-> 安装完成后可以直接打开启动器开启游戏。
+> 有些电脑可能已经安装了 Java 8 或以上版本，你可以在命令行中输入 `java -version` 来检查 Java 版本。  
+> 如果显示的版本低于 8，则需要安装 Java 8 或以上版本。  
+> 安装完成后可以直接打开启动器开启游戏。  
 > 小提醒~ Minecraft每一个的游戏版本所需的 Java 版本不同，客户端的设置是可以自行选择版本，让他自动下载和自动适配游戏版本。
 
 ### Java 17 下载
@@ -60,7 +60,7 @@
 
 #### Iris 光影
 
-> <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。
+> <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。  
 > 补充：Iris是可以在官网下载客户端版本安装包直接安装的，如果不玩考虑模组的话可以尝试使用官网提供的安装包。
 
 [![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](https://modrinth.com/mod/iris/version/1.6.4+1.20)
@@ -74,7 +74,8 @@
 
 #### Replay 记录回放
 
-> Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录，退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
+> Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录  
+> 退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
 
 <a href="../mod[fabric]replaymod-1.20.1-2.6.13.jar"><img src="https://img.shields.io/badge/下载-Replay-red?style=for-the-badge"></a>
 
