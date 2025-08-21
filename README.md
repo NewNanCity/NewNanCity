@@ -112,6 +112,38 @@
 ---
 
 <!-- 客户端安装教学 -->
+<details id="client">
+  <summary>客户端安装教学</summary>
+  <p>
+    1. 请先安装Q群或者<a href="">给的客户端。
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载"><br>
+  </p>
+  <p>
+    2. 
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端登录资料填写"><br>
+  </p>
+  <p>
+    3. 
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="第三方帐号登录"><br>
+  </p>
+  <p>
+    4. 
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client4.png" width="100%" height="auto" alt="进入游戏前置"><br>
+  </p>
+  <p>
+    5. 
+  </p>
+  <p>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client5.png" width="100%" height="auto" alt="进入游戏"><br>
+  </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 官方B站 -->
@@ -120,13 +152,14 @@
   <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
   <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
 </p>
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115048081067230&bvid=BV1ZBYpzhEYB&cid=31772116116&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 规则 -->
 <h2 align="center" id="rules">规则</h2>
 <p align="center">
-  <a href="https://newnan.city/rules"><img src="https://img.shields.io/badge/规则-查看规则-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
+  <a href="https://www.wolai.com/newnan/777czodMK18Zv6hdy2b8jm"><img src="https://img.shields.io/badge/规则-查看规则-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
@@ -135,6 +168,3 @@
 <p align="center">
   <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
 ```牛腩服务器是公益服务器，平时用爱发电，欢迎各位赞助！钱无论多少，你的支持就是我们最大的荣幸！如果愿意，请量力而行，1块也可以，很多玩家都是学生，没有挣钱能力，请节俭一些（富哥随意）！本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在此页面鸣谢所有赞助者，并保证资金流向的透明（更新会有延迟）。```
-
-
-
