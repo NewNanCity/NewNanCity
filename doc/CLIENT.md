@@ -22,7 +22,6 @@
 
 ### PCL 启动器
 
-> [!NOTE]
 > 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 PCL (Fabric)](https://img.shields.io/badge/下载-PCL%20(Fabric)-blue?style=for-the-badge)](../client/PCL_Fabric.rar)
@@ -36,7 +35,6 @@
 
 ### HMCL 启动器
 
-> [!NOTE]
 > 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](../client/HMCL_Fabric整合包.zip)
@@ -50,7 +48,6 @@
 
 ### 你可能所需要的模组？
 
-> [!NOTE]
 > 我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可。
 
 #### Optifine 光影
@@ -61,7 +58,6 @@
 
 #### Iris 光影
 
-> [!NOTE]
 > <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。
 
 [![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](../mod/Iris.jar)
@@ -69,14 +65,12 @@
 
 #### Bobby 渲染更远区块
 
-> [!NOTE]
 > Bobby 可以允许渲染比服务器视距更多的区块。
 
 [![下载 Bobby](https://img.shields.io/badge/下载-Bobby-red?style=for-the-badge)](../mod/[摄影视距用]bobby-5.0.1.jar)
 
 #### Replay 记录回放
 
-> [!简介]
 > Replay 可以记录你在游戏中的一举一动，设置中可以开启进入游戏后自动记录，退出世界/服务器后会自动存放在文件目录，并且可以回放记录时的所有操作。
 
 [![下载 Replay](https://img.shields.io/badge/下载-Replay-red?style=for-the-badge)](../mod/[fabric]replaymod-1.20.1-2.6.13.jar)
