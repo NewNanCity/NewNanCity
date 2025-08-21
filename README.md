@@ -125,36 +125,16 @@
 <h2 align="left" id="client">/client 客户端安装</h2>
 <details open>
   <summary>客户端安装教学</summary>
-  <p>
-    1. 请先安装Q群或者<a href="">这里</a>给的客户端。
-  </p>
-  <p>
+    1. 请先安装牛腩主群或者 <a href="doc/CLIENT.md">客户端</a> 给的客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载"><br>
-  </p>
-  <p>
-    2. 
-  </p>
-  <p>
+    2.<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端登录资料填写"><br>
-  </p>
-  <p>
-    3. 
-  </p>
-  <p>
+    3. <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="第三方帐号登录"><br>
-  </p>
-  <p>
-    4. 
-  </p>
-  <p>
+    4. <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client4.png" width="100%" height="auto" alt="进入游戏前置"><br>
-  </p>
-  <p>
-    5. 
-  </p>
-  <p>
+    5. <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client5.png" width="100%" height="auto" alt="进入游戏"><br>
-  </p>
 </details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
