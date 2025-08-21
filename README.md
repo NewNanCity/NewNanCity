@@ -94,7 +94,9 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin2.png" width="100%" height="auto" alt="注册"><br>
   </p>
   <p>
-    3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址。不过牛腩并没有提供，所以直接贴在这里了→→→`https://skin.newnan.city/api/yggdrasil`。
+    3. 正常情况，皮肤站仪表盘的左下角会有一个方块，上面提供了第三方认证服务器地址。不过牛腩并没有提供，所以直接贴在这里了
+    https://skin.newnan.city/api/yggdrasil
+    请把此地址复制下来，登入客户端时会用上。
   </p>
   <p>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/skin3.png" width="100%" height="auto" alt="第三方认证服务器地址"><br>
