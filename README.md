@@ -42,7 +42,6 @@
 > • 不限制PVP大赛：随时随地，就地大战，没有任何限制！死了会有神秘战败CG哦
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
-
 <!--选单-->
 <h2 align="center">/nn</h2>
 <p align="left">你可以使用此选单前往以下其中一个区域。</p>
@@ -78,7 +77,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!-- 皮肤站注册教学 -->
-<details id="skin">
+<h2 align="left" id="skin">/skin 皮肤站注册</h2>
+<details>
   <summary>皮肤站注册教学</summary>
   <p>
     1. 打开皮肤站注册页面，点击画面中间的"现在注册"：<a href="https://skin.newnan.city">https://skin.newnan.city</a>。
@@ -122,7 +122,8 @@
 ---
 
 <!-- 客户端安装教学 -->
-<details id="client">
+<h2 align="left" id="client">/client 客户端安装</h2>
+<details>
   <summary>客户端安装教学</summary>
   <p>
     1. 请先安装Q群或者<a href="">这里</a>给的客户端。
