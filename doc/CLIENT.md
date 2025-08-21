@@ -13,8 +13,6 @@
 
 ### Java 17 下载
 
-> 你可以在下面的下载按钮下载 Java 17。
-
 [![下载 Macos](https://img.shields.io/badge/下载-JDK17%20Macos-gray?style=for-the-badge)](https://drive.google.com/file/d/19Y_bIP1MItBX0KVGbXIWwduAVhHr9GXI/view?usp=drive_link)
 
 [![下载 Windows](https://img.shields.io/badge/下载-JDK17%20Windows-blue?style=for-the-badge)](https://drive.google.com/file/d/11pvGXsjC3VXXZTJs1ImEvWo95EgyDioN/view?usp=drive_link)
