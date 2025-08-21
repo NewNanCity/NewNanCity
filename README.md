@@ -130,8 +130,9 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
-    2. 下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。<br>这里先用的PCL客户端示范。
+    2. 这里先用的PCL客户端示范。<br>下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl1.png" width="100%" height="auto" alt="pcl客户端1"><br>
+    3. 如果你是下载一整个客户端的话，直接登入你用皮肤站注册的帐号即可登入游戏。<br>※ 如果你是只下载启动器的话，请按照 <a href="#client_only">这里</a> 的步骤操作。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl2.png" width="100%" height="auto" alt="pcl客户端2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
@@ -154,9 +155,10 @@
   <a href="https://www.wolai.com/newnan/jjrRipUsK76KDaAe4uRwBS"><img src="https://img.shields.io/badge/捐赠-支持我们-green?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Donate"/></a></p>
 
 ```html
-牛腩服务器是公益服务器，平时用爱发电，欢迎各位赞助！
+牛腩小镇是公益服务器，平时用爱发电，欢迎各位赞助！
 钱无论多少，你的支持就是我们最大的荣幸！
 如果愿意，请量力而行，1块也可以，很多玩家都是学生，没有挣钱能力，请节俭一些（富哥随意）！
-本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在此页面鸣谢所有赞助者，并保证资金流向的透明
+本服不是商业服，赞助行为不会回报以任何氪金服务，我们会在本页面（不定时更新，上面的链接应在24小时内更新）鸣谢所有赞助者，并保证资金流向的透明
 （更新会有延迟）。
 ```
+<img src="https://github.com/Sasuke1003/photoshub/blob/main/donate.png" width="100%" height="auto" alt="斗内">
