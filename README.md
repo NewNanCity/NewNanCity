@@ -56,13 +56,24 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!--牛腩链接-->
 <h2 align="center" id="tpa">/tpa</h2>
-<p align="center">
-  <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Website"/></a>
-  <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=qq&logoColor=white" width="150" height="30" alt="Start play"/></a>
-  <a href="https://skin.newnan.city"><img src="https://img.shields.io/badge/Skin-皮肤站-gold?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Authlib"/></a>
-  <a href="https://map.newnan.city"><img src="https://img.shields.io/badge/Map-卫星地图-blue?style=for-the-badge&logo=mapbox&logoColor=white" width="150" height="30" alt="NewNanCity Gamemap"/></a>
-  <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
-  <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a>
+<p align="left">
+  <a href="https://newnan.city" target="_blank"><img src="https://img.shields.io/badge/Web-牛腩小镇-red?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Website"/></a> 牛腩小镇唯一的官方网站，包含最新资讯、规则、玩家法院等。
+</p>
+<p align="left">
+  <a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=CdEFH&appChannel=share&businessType=9&from=181074&biz=ka&shareSource=5" target="_blank"><img src="https://img.shields.io/badge/Play-QQ频道-orange?style=for-the-badge&logo=qq&logoColor=white" width="150" height="30" alt="Start play"/></a> 加入QQ频道，与其他玩家互动，新人玩家进服审核必进。
+</p>
+<p align="left">
+  <a href="https://skin.newnan.city"><img src="https://img.shields.io/badge/Skin-皮肤站-gold?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Authlib"/></a> 注册游戏帐号，获取自定义皮肤。
+</p>
+<p align="left">
+  <a href="https://map.newnan.city"><img src="https://img.shields.io/badge/Map-卫星地图-blue?style=for-the-badge&logo=mapbox&logoColor=white" width="150" height="30" alt="NewNanCity Gamemap"/></a> 查看游戏地图，了解游戏地形。
+
+</p>
+<p align="left">
+  <a href="https://space.bilibili.com/1704080503?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩时报-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a> 主要负责人 Starteamwuzhou 经营的牛腩官方Bilibili账号，发布宣传和游戏相关资讯、视频。
+</p>
+<p align="left">
+  <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a> 主要负责人 Martian 经营的牛腩官方Bilibili账号，发布牛腩公告相关资讯、视频。
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
