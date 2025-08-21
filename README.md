@@ -51,6 +51,7 @@
 - [/client 客户端安装](#client)
 - [/rules 牛腩法规](#rules)
 - [/donate 捐赠](#donate)
+- [下载页面](doc/download.md)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
 <!--牛腩链接-->
