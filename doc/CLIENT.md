@@ -1,11 +1,11 @@
 <h1 align="center">客户端下载</h1>
 
-> !Warning
+> [!Warning]
 >
 > 请确保您的电脑至少已安装 Java 8 或以上版本，否则无法运行游戏。
 > 你可以在下面的下载按钮下载 Java 17 或者在 [Java 官网](https://www.java.com/zh-CN/) 下载并安装最新版本的 Java。
 
-> !Note
+> [!Note]
 > 有些电脑可能已经安装了 Java 8 或以上版本，你可以在命令行中输入 `java -version` 来检查 Java 版本。
 > 如果显示的版本低于 8，则需要安装 Java 8 或以上版本。
 > 安装完成后可以直接打开启动器开启游戏。
@@ -16,15 +16,17 @@
 > 你可以在下面的下载按钮下载 Java 17。
 
 [![下载 Macos](https://img.shields.io/badge/下载-JDK17%20Macos-gray?style=for-the-badge)](../jdk/jdk-17_macos-x64.dmg)
+
 [![下载 Windows](https://img.shields.io/badge/下载-JDK17%20Windows-blue?style=for-the-badge)](../jdk/jdk-17_windows-x64_bin.exe)
 
 ---
 
 ### PCL 启动器
 
-<p>这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用</p>
+> 这里是PCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 PCL (Fabric)](https://img.shields.io/badge/下载-PCL%20(Fabric)-blue?style=for-the-badge)](../client/PCL_Fabric.rar)
+
 [![下载 PCL (Forge)](https://img.shields.io/badge/下载-PCL%20(Forge)-blue?style=for-the-badge)](../client/PCL_Forge.rar)
 
 <p>如果你有自己的.minecraft文件，你可以把PCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载.minecraft文件</p>
@@ -35,7 +37,7 @@
 
 ### HMCL 启动器
 
-<p>这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用</p>
+> 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
 [![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](../client/HMCL_Fabric整合包.zip)
 [![下载 HMCL (Forge)](https://img.shields.io/badge/下载-HMCL%20(Forge)-green?style=for-the-badge)](../client/HMCL_Forge.rar)
@@ -48,7 +50,7 @@
 
 ### 你可能所需要的模组？
 
-<p>我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可</p>
+> 我们也提供了一些视频创作者会用到的模组，下载后放到.minecraft/mods文件夹中即可。
 
 #### Optifine 光影
 
