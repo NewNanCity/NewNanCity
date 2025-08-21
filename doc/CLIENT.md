@@ -39,8 +39,9 @@
 
 > 这里是HMCL的整合包，里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组，下载整合包后直接解压就可使用。
 
-[![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](../client/HMCL_Fabric整合包.zip)
-[![下载 HMCL (Forge)](https://img.shields.io/badge/下载-HMCL%20(Forge)-green?style=for-the-badge)](../client/HMCL_Forge.rar)
+[![下载 HMCL (Fabric 整合包)](https://img.shields.io/badge/下载-HMCL%20(Fabric%20整合包)-green?style=for-the-badge)](https://drive.google.com/file/d/1GNtjbaomFUK0vi0mWTznGRjBvF4o3Fxk/view?usp=drive_link)
+
+[![下载 HMCL (Forge)](https://img.shields.io/badge/下载-HMCL%20(Forge)-green?style=for-the-badge)](https://drive.google.com/file/d/1tZPnmfQiivMKP4xdpqPLNcfq4AgL3I8l/view?usp=drive_link)
 
 > 同理，如果你有自己的.minecraft文件，你可以把HMCL启动器放在.minecraft文件的母文件中，启动器会自动检测并加载`.minecraft`文件。
 
@@ -55,15 +56,17 @@
 #### Optifine 光影
 
 > <a href="https://optifine.net/home">Optifine</a> 是一个优化模组，主要的特点是光影和平滑玻璃，可以搭配光影包使用，你可以把光影包直接丢进`.minecraft/shaderpacks`文件夹中。
+> 补充：Optifine是可以在官网下载客户端版本安装包直接安装的，如果不玩考虑模组的话可以尝试使用官网提供的安装包。
 
-[![下载 Optifine](https://img.shields.io/badge/下载-Optifine-pink?style=for-the-badge)](../mod/OptiFine_1.20.1_HD_U_I6.jar)
+[![下载 Optifine](https://img.shields.io/badge/下载-Optifine-pink?style=for-the-badge)](https://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=6923)
 
 #### Iris 光影
 
 > <a herf="https://www.irisshaders.dev/">Iris </a>是一个优化模组，主要的特点是光影效果，比Optifine的光影效果要高，但是流畅性要差一些。
+> 补充：Iris是可以在官网下载客户端版本安装包直接安装的，如果不玩考虑模组的话可以尝试使用官网提供的安装包。
 
-[![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](../mod/Iris.jar)
-[![下载 前置模组Sodium](https://img.shields.io/badge/下载-前置模组%20Sodium-red?style=for-the-badge)](../mod/Sodium.jar)
+[![下载 Iris光影](https://img.shields.io/badge/下载-Iris-blue?style=for-the-badge)](https://modrinth.com/mod/iris/version/1.6.4+1.20)
+[![下载 前置模组Sodium](https://img.shields.io/badge/下载-前置模组%20Sodium-red?style=for-the-badge)](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10)
 
 #### Bobby 渲染更远区块
 
