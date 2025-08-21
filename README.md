@@ -130,7 +130,7 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
-    2. 下载好之后解压缩，然后点开。<br>这里先用的PCL客户端示范，其他客户端也都差不多，就不展开讲了。<br>
+    2. 下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。<br>这里先用的PCL客户端示范，其他客户端也都差不多，就不展开讲了。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl1.png" width="100%" height="auto" alt="pcl客户端1"><br>
     3. <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client5.png" width="100%" height="auto" alt="进入游戏"><br>
