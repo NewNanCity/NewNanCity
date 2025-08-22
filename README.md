@@ -144,7 +144,9 @@
   -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的整合包和纯净客户端。<br>
         ※注意！注意！注意！此整合包只适用于HMCL客户端。<br>
         下载好之后解压缩，然后点开"HMCL.exe"。<br>
+  -  2. 点击账户<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
+  -  3. 点击添加账户<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
 </details>
