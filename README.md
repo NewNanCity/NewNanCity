@@ -145,7 +145,7 @@
         ※注意！注意！注意！此整合包只适用于HMCL客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client4.png" width="100%" height="auto" alt="客户端下载4"><br>
         
       下载好之后请创建一个资料夹，把纯净客户端放到这个资料夹里面，这个资料夹将会是你的游戏资料夹。<br>
     然后点击"HMCL.exe"打开客户端。<br>
