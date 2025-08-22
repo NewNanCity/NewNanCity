@@ -147,6 +147,7 @@
   -  2. 点击账户<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
   -  3. 点击添加认证服务器，然后把`https://skin.newnan.city/api/yggdrasil`粘贴上去。<br>
+  为什么要添加认证服务器？由于牛腩是使用属于自己的皮肤站登录认证，等同于正版认证，登录加入玩家资料到服务器。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
   -  4. 点击添加账户下面红框里面你刚添加过的认证服务器，然后登入你的账号。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
