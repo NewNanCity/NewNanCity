@@ -2,7 +2,7 @@
 <h1 align="center">牛腩小镇 | NewNanCity | JE 1.20.1</h1>
 
 <!-- 横幅 -->
-<p align="center"><img src="https://github.com/Sasuke1003/photoshub/blob/main/newnancity.png" alt="五周年banner" width="100%"/></p>
+<p align="center"><a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b"><img src="https://github.com/Sasuke1003/photoshub/blob/main/newnancity.png" alt="五周年banner" width="100%"/></a></p>
 <p align="center"><img src="assets/days_since.png" alt="服务器开启天数"/>&nbsp;
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/hahadiaotu.jpg" height="80" alt="分隔符"/>&nbsp;
 <img src="assets/countdown.png" alt="距离下个周年天数"/></p>
