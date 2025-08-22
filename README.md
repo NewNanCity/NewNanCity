@@ -125,15 +125,24 @@
 <!-- 客户端安装教学 -->
 <h2 align="left" id="client">/client 客户端安装和登入游戏教学</h2>
 <details>
-  <summary>客户端安装教学</summary>
-    1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的客户端。<br>
+  <summary>PCL客户端安装教学</summary>
+  
+  #### PCL
+  -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
-    2. 这里先用的PCL客户端示范。<br>下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。
+  -  2. 这里先用的PCL客户端示范。<br>下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl1.png" width="100%" height="auto" alt="pcl客户端1"><br>
-    3. 如果你是下载一整个客户端的话，直接登入你用皮肤站注册的帐号即可登入游戏。<br>※ 如果你是只下载启动器的话，请按照 <a href="#client_only">这里</a> 的步骤操作。<br>
+  -  3. 如果你是使用我们提供的客户端，直接登入你用皮肤站注册的帐号即可登入游戏，无需添加第三方认证服务器地址。<br>※ 如果你的PCL端是下载全新的纯启动器的话，请按照 <a href="#client_only">这里</a> 的步骤操作。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl2.png" width="100%" height="auto" alt="pcl客户端2"><br>
+</details>
+<details>
+  <summary>HMCL客户端安装教学</summary>
+  #### HMCL
+  -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的整合包和纯净客户端。<br>
+        ※注意！注意！注意！此整合包只适用于HMCL客户端。<br>
+        下载好之后解压缩，然后点开"HMCL.exe"。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
