@@ -32,9 +32,14 @@ jobs:
       run: python generate_images.py
 
     - name: Commit changes
+      shell: bash
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add assets/*.png
-        git commit -m "Auto-update counter images" || exit 0
-        git push
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add assets/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update counter images"
+          git push
+        fi
