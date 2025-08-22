@@ -127,7 +127,7 @@
 <details>
   <summary>PCL客户端安装教学</summary>
   
-  ### PCL
+  ### PCL 整合端
   -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
@@ -136,7 +136,10 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl1.png" width="100%" height="auto" alt="pcl客户端1"><br>
   -  3. 如果你是使用我们提供的客户端，可以直接使用你用皮肤站注册的帐号登入游戏，无需添加第三方认证服务器地址。<br>※ 如果你的PCL端是下载全新的纯启动器的话，请按照 <a href="#client_only">这里</a> 的步骤操作。<br>
   为什么要添加认证服务器？由于牛腩是使用属于自己的皮肤站登录认证，等同于正版认证，登录加入玩家资料到服务器。<br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl2.png" width="100%" height="auto" alt="pcl客户端2"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl2.png" width="100%" height="auto" alt="pcl客户端2"><br><br><br><br><br>
+    
+  ### PCL 纯净端/自建端
+  -  1. 
 </details>
 <details>
   <summary>HMCL客户端安装教学</summary>
@@ -157,6 +160,8 @@
   -  4. 点击添加账户下面红框里面你刚添加过的认证服务器，然后登入你的账号。<br>
   如果你不是使用我们的整合包，那到这一步就可以了！<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
+
+  ### HMCL 整合包安装
   -  5. 接下来点击版本列表。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl4.png" width="100%" height="auto" alt="hmcl整合包1"><br>
   -  6. 点击安装整合包后，把你刚刚下载的整合包拖进去hmcl界面，<br>
