@@ -140,13 +140,19 @@
 
   ### PCL 纯净端/自建端
 
-  -  1. f<br>
+  -  1. ※如果你是想用自己的版本的话，可以直接跳到第四步。<br>
+        首先点击版本选择
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl1.png" width="100%" height="auto" alt="pcl自建端1"><br>
   -  2. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl2.png" width="100%" height="auto" alt="pcl自建端2"><br>
   -  3. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl3.png" width="100%" height="auto" alt="pcl自建端3"><br>
   -  4. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl4.png" width="100%" height="auto" alt="pcl自建端4"><br>
   -  5. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl5.png" width="100%" height="auto" alt="pcl自建端5"><br>
   -  6. <br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl6.png" width="100%" height="auto" alt="pcl自建端6"><br>
 
 </details>
 <details>
