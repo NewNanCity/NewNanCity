@@ -158,7 +158,7 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl5.png" width="100%" height="auto" alt="hmcl整合包2"><br>
   -  7. 点击安装整合包后，等待安装完成。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl6.png" width="100%" height="auto" alt="hmcl整合包3"><br>
-  -  8. 点击版本列表，然后点击你刚刚安装的整合包。<br>
+  -  8. 点击版本列表，会发现启动器自动选择了你刚刚安装的整合包，然后返回界面首页就可以开始游戏了。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl7.png" width="100%" height="auto" alt="hmcl整合包4"><br>
 </details>
 
