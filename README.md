@@ -143,7 +143,12 @@
   ### HMCL
   -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的整合包和纯净客户端。<br>
         ※注意！注意！注意！此整合包只适用于HMCL客户端。<br>
-        下载好之后解压缩，然后点开"HMCL.exe"。<br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client3.png" width="100%" height="auto" alt="客户端下载3"><br>
+        
+      下载好之后请创建一个资料夹，把纯净客户端放到这个资料夹里面，这个资料夹将会是你的游戏资料夹。<br>
+    然后点击"HMCL.exe"打开客户端。<br>
   -  2. 点击账户<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
   -  3. 点击添加认证服务器，然后把`https://skin.newnan.city/api/yggdrasil`粘贴上去。<br>
