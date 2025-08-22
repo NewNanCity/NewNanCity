@@ -150,7 +150,16 @@
   为什么要添加认证服务器？由于牛腩是使用属于自己的皮肤站登录认证，等同于正版认证，登录加入玩家资料到服务器。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
   -  4. 点击添加账户下面红框里面你刚添加过的认证服务器，然后登入你的账号。<br>
+  如果你不是使用我们的整合包，那到这一步就可以了！<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
+  -  5. 接下来点击版本列表。<br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl4.png" width="100%" height="auto" alt="hmcl整合包1"><br>
+  -  6. 点击安装整合包后，把你刚刚下载的整合包拖进去hmcl界面，<br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl5.png" width="100%" height="auto" alt="hmcl整合包2"><br>
+  -  7. 点击安装整合包后，等待安装完成。<br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl6.png" width="100%" height="auto" alt="hmcl整合包3"><br>
+  -  8. 点击版本列表，然后点击你刚刚安装的整合包。<br>
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl7.png" width="100%" height="auto" alt="hmcl整合包4"><br>
 </details>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
