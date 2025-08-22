@@ -26,7 +26,7 @@
 > 里面已经包含了游玩牛腩小镇可能所需的模组、材质包、光影包等，无需额外下载模组  
 > 下载整合包后直接解压即可使用。
 
-[![下载 Fabric 整合包](https://img.shields.io/badge/下载-Fabric%20整合包-green?style=for-the-badge)](https://drive.google.com/file/d/1GNtjbaomFUK0vi0mWTznGRjBvF4o3Fxk/view?usp=drive_link)
+[![下载 Fabric 整合包](https://img.shields.io/badge/下载-Fabric%20整合包-red?style=for-the-badge)](https://drive.google.com/file/d/1GNtjbaomFUK0vi0mWTznGRjBvF4o3Fxk/view?usp=drive_link)
 
 ### PCL 启动器
 
