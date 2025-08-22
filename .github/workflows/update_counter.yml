@@ -2,7 +2,9 @@ name: Daily Counter Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # 在 UTC 16:00 运行，即香港时间 00:00
+    - cron: '0 16 * * *'
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update:
