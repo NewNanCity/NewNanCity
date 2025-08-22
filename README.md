@@ -178,6 +178,8 @@
     - **特别提醒，真人真事，某前玩家将自己的号给“妹妹”玩，“妹妹”并不知道这是服务器，从别的玩家那里拿走了大量物品，被判定为恶意偷窃，永久封禁。**
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 作为玩家，你需要知道哪些事情
@@ -197,6 +199,8 @@
 https://zhuanlan.zhihu.com/p/109918158
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 在管理组，你需要知道的事情
@@ -207,6 +211,8 @@ https://zhuanlan.zhihu.com/p/109918158
 - 对违规玩家要零容忍，不能心慈手软。但是有两个原则：基于确凿的证据，根据实际情况量刑。
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 城镇制度
@@ -221,6 +227,8 @@ https://zhuanlan.zhihu.com/p/109918158
 - 分级详情、其他内容请见[牛腩城镇法](https://docs.qq.com/doc/DUHZma0NQRWxsY1N6)。
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 风纪委员制度
@@ -231,6 +239,8 @@ https://zhuanlan.zhihu.com/p/109918158
 - 「风纪委员会」的所有玩家都是值得赞扬的，作为牛腩小镇无名的护花使者，虽默默无闻、忍辱负重，但我们会永远记得你们！你们对牛腩的安定功不可没。
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 如果违背了《法典》会受到什么惩罚
@@ -255,6 +265,8 @@ https://zhuanlan.zhihu.com/p/109918158
 3. ~~女装照谢罪(并不)；~~
 
 </summary>
+</details>
+<details>
 <summary>
 
 ## 建筑师制度
