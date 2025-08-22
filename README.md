@@ -146,8 +146,9 @@
         下载好之后解压缩，然后点开"HMCL.exe"。<br>
   -  2. 点击账户<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl1.png" width="100%" height="auto" alt="hmcl客户端1"><br>
-  -  3. 点击添加账户<br>
+  -  3. 点击添加认证服务器，然后把`https://skin.newnan.city/api/yggdrasil`粘贴上去。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl2.png" width="100%" height="auto" alt="hmcl客户端2"><br>
+  -  4. 点击添加账户下面红框里面你刚添加过的认证服务器，然后登入你的账号。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl3.png" width="100%" height="auto" alt="hmcl客户端3"><br>
 </details>
 
