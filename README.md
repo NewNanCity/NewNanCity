@@ -143,8 +143,8 @@
 <!-- 规则 -->
 <h2 align="center" id="rules">牛腩法规</h2>
 <p align="center">
-  <a href="https://www.wolai.com/newnan/777czodMK18Zv6hdy2b8jm"><img src="https://img.shields.io/badge/我来-牛腩法规-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
-  <a href="https://www.wolai.com/newnan/a1XDDRgFFovKxWzScNXA5m"><img src="https://img.shields.io/badge/我来-牛腩法院-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Court"/></a>
+  <a href="https://www.wolai.com/newnan/777czodMK18Zv6hdy2b8jm"><img src="https://img.shields.io/badge/Wolai-牛腩法规-purple?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Rules"/></a>
+  <a href="https://www.wolai.com/newnan/a1XDDRgFFovKxWzScNXA5m"><img src="https://img.shields.io/badge/Wolai-牛腩法院-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" width="150" height="30" alt="NewNanCity Court"/></a>
 </p>
 <details>
   <summary>
