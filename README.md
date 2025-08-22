@@ -140,19 +140,21 @@
 
   ### PCL 纯净端/自建端
 
-  -  1. ※如果你是想用自己的版本的话，可以直接跳到第四步。<br>
-        首先点击版本选择
+  -  1. ※如果你是想用自己整合安装的版本的话，可以跳到第三步，否则请从第一步开始。<br>
+        首先点击版本选择。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl1.png" width="100%" height="auto" alt="pcl自建端1"><br>
-  -  2. 1<br>
+  -  2. 点击导入整合包后，寻找你下载好的整合包，然后选择安装，等待成功安装整合包。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl2.png" width="100%" height="auto" alt="pcl自建端2"><br>
-  -  3. 1<br>
+  -  3. ※承接第二步，整合包安装过后，应该会发现版本选择多了一个选项，那个就是你安装的整合包的版本。<br>
+        然后点击你的版本最右边的齿轮。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl3.png" width="100%" height="auto" alt="pcl自建端3"><br>
-  -  4. 1<br>
+  -  4. 打开版本设置后，按左边选单的设置，然后拉到底应该会看到"服务器"界面<br>
+        按照图片上的红色框，登录方式更改为第三方登录和填写认证服务器地址。<br>
+        注册链接和服务器名称可以选填。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl4.png" width="100%" height="auto" alt="pcl自建端4"><br>
-  -  5. 1<br>
+  -  5. 返回到启动器主页后会发现上方的登录方式变成了"NewNanCity"，代表你已经成功添加了认证服务器。<br>
+        然后使用你的皮肤站账号登入即可启动游戏。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl5.png" width="100%" height="auto" alt="pcl自建端5"><br>
-  -  6. 1<br>
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/pure_client_pcl6.png" width="100%" height="auto" alt="pcl自建端6"><br>
 
 </details>
 <details>
