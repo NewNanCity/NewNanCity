@@ -127,7 +127,7 @@
 <details>
   <summary>PCL客户端安装教学</summary>
   
-  #### PCL
+  ### PCL
   -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的客户端。<br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client1.png" width="100%" height="auto" alt="客户端下载1"><br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client2.png" width="100%" height="auto" alt="客户端下载2"><br>
@@ -139,7 +139,8 @@
 </details>
 <details>
   <summary>HMCL客户端安装教学</summary>
-  #### HMCL
+  
+  ### HMCL
   -  1. 请先安装牛腩主群或者 <a href="doc/download.md">下载页面</a> 给的整合包和纯净客户端。<br>
         ※注意！注意！注意！此整合包只适用于HMCL客户端。<br>
         下载好之后解压缩，然后点开"HMCL.exe"。<br>
