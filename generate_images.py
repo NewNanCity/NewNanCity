@@ -4,7 +4,8 @@ import os
 
 # 基礎配置
 assets_path = os.path.join(os.path.dirname(__file__), 'assets')
-font_path = 'msyh.ttc'
+# 修改这里，指向项目中的字体文件
+font_path = os.path.join(os.path.dirname(__file__), 'fonts', 'msyh.ttc')
 base_date = datetime(2020, 2, 2)
 IMAGE_WIDTH = 225  # 統一圖片寬度
 IMAGE_HEIGHT = 80  # 統一圖片高度
