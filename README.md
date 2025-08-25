@@ -7,7 +7,7 @@
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/hahadiaotu.jpg" height="80" alt="分隔符"/>&nbsp;
 <img src="assets/countdown.png" alt="距离下个周年天数"/></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!-- 欢迎信息 -->
 <h3 align="center">/spawn</h3>
 <p align="center">欢迎你牛子！牛腩小镇是一个开服超过五年，合计超过2000+玩家的中文圈插件生存服务器。</p>
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!-- 新闻 -->
 <h2 align="center">/mail read</h2>
 <p align="center">牛腩时报：最新情报！曼巴小镇已开启！！</p>
@@ -41,7 +41,7 @@
 > • 建筑battle：“炸服纪念碑”主题雕塑，占地20*20以内，优秀作品将会被永久放置于牛腩镇和其他城镇！
 > • 不限制PVP大赛：随时随地，就地大战，没有任何限制！死了会有神秘战败CG哦
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!--选单-->
 <h2 align="center">/nn</h2>
 <p align="left">你可以使用此选单前往以下其中一个区域。</p>
@@ -53,7 +53,7 @@
 - [/donate 捐赠](#donate)
 - [下载页面](doc/download.md)
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!--牛腩链接-->
 <h2 align="center" id="tpa">/tpa</h2>
 <p align="left">
@@ -76,7 +76,7 @@
   <a href="https://space.bilibili.com/528956334?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-牛腩官方-pink?style=for-the-badge&logo=bilibili&logoColor=white" width="150" height="30" alt="NewNanCity Bilibili"/></a> 主要负责人 Martian 经营的牛腩官方Bilibili账号，发布牛腩公告相关资讯、视频。
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!-- 皮肤站注册教学 -->
 <h2 align="left" id="skin">/skin 皮肤站注册</h2>
 <details>
@@ -189,7 +189,7 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_hmcl7.png" width="100%" height="auto" alt="hmcl整合包4"><br>
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!-- 规则 -->
 <h2 align="center" id="rules">牛腩法规</h2>
 <p align="center">
@@ -321,7 +321,7 @@ https://zhuanlan.zhihu.com/p/109918158
   </summary>
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" alt="我就是一条线" width="100%"/></p>
+<p align="center"><img src="https://aurora.tech-is.cool/aurora-border.svg" alt="Aurora-border" width="100%"/></p>
 <!-- 捐赠 -->
 <h2 align="center" id="donate">捐赠</h2>
 <p align="center">
