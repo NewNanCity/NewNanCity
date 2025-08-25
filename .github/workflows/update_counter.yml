@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pillow
+          pip install pillow tzdata # <--- 在这里添加 tzdata
 
       - name: Generate images
         env:
