@@ -135,7 +135,7 @@
   -  2. 下载好之后解压缩，然后点开"Plain Craft Launcher.exe"。
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl1.png" width="100%" height="auto" alt="pcl客户端1"><br>
   -  3. 如果你是使用我们提供的客户端，可以直接使用你用皮肤站注册的帐号登入游戏，无需添加第三方认证服务器地址。<br>※ 如果你的PCL端是下载全新的纯启动器的话，请继续按照下面的"PCL 纯净端/自建端"的步骤操作。<br>
-  为什么要添加认证服务器？由于牛腩是使用属于自己的皮肤站登录认证，等同于正版认证，登录加入玩家资料到服务器。<br>
+  问：为什么要添加认证服务器？由于牛腩是使用属于自己的皮肤站登录认证，不等同于正版认证，因此需要玩家在皮肤站注册后玩家才能加入服务器。  <br>
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/client_pcl2.png" width="100%" height="auto" alt="pcl客户端2"><br><br><br><br><br>
 
   ### PCL 纯净端/自建端
